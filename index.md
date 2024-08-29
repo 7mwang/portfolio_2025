@@ -6,7 +6,7 @@ author: John Mortensen, Vivian Ni, Bria Gilliam
 image: /images/mario_animation.png
 hide: true
 ---
-
+Portfolio 2025
 <!-- Liquid:  statements -->
 
 <!-- Include submenu from _includes to top of pages -->
